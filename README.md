@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/apr61/apr61.github.io/tree/main/intermediate/react-calculator-app)
+- Solution URL: [Solution URL](https://github.com/apr61/react-calculator)
 - Live Site URL: [Live site URL](https://react-calculator-lime-five.vercel.app/)
 
 ## My process
